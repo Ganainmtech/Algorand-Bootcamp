@@ -1,4 +1,4 @@
-# Algorand-Bootcamp-Beginner
-Following the beginner Algorand Developer boot camps live
+# Algorand-Bootcamp
+Following the beginner & intermediate Algorand Developer boot camps live (Jul/Aug)
 
 
